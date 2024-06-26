@@ -1,0 +1,14 @@
+C:\Users\anneg\source\repos\QuadaxMastermind\QuadaxMastermind\bin\Debug\net8.0\QuadaxMastermind.exe
+C:\Users\anneg\source\repos\QuadaxMastermind\QuadaxMastermind\bin\Debug\net8.0\QuadaxMastermind.deps.json
+C:\Users\anneg\source\repos\QuadaxMastermind\QuadaxMastermind\bin\Debug\net8.0\QuadaxMastermind.runtimeconfig.json
+C:\Users\anneg\source\repos\QuadaxMastermind\QuadaxMastermind\bin\Debug\net8.0\QuadaxMastermind.dll
+C:\Users\anneg\source\repos\QuadaxMastermind\QuadaxMastermind\bin\Debug\net8.0\QuadaxMastermind.pdb
+C:\Users\anneg\source\repos\QuadaxMastermind\QuadaxMastermind\obj\Debug\net8.0\QuadaxMastermind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anneg\source\repos\QuadaxMastermind\QuadaxMastermind\obj\Debug\net8.0\QuadaxMastermind.AssemblyInfoInputs.cache
+C:\Users\anneg\source\repos\QuadaxMastermind\QuadaxMastermind\obj\Debug\net8.0\QuadaxMastermind.AssemblyInfo.cs
+C:\Users\anneg\source\repos\QuadaxMastermind\QuadaxMastermind\obj\Debug\net8.0\QuadaxMastermind.csproj.CoreCompileInputs.cache
+C:\Users\anneg\source\repos\QuadaxMastermind\QuadaxMastermind\obj\Debug\net8.0\QuadaxMastermind.dll
+C:\Users\anneg\source\repos\QuadaxMastermind\QuadaxMastermind\obj\Debug\net8.0\refint\QuadaxMastermind.dll
+C:\Users\anneg\source\repos\QuadaxMastermind\QuadaxMastermind\obj\Debug\net8.0\QuadaxMastermind.pdb
+C:\Users\anneg\source\repos\QuadaxMastermind\QuadaxMastermind\obj\Debug\net8.0\QuadaxMastermind.genruntimeconfig.cache
+C:\Users\anneg\source\repos\QuadaxMastermind\QuadaxMastermind\obj\Debug\net8.0\ref\QuadaxMastermind.dll
